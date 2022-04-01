@@ -16,3 +16,6 @@ TTRサポート鯖：https://discord.gg/6Ue5B3UUre
 3.そこにさっきダウンロードしたTTR(ThetsutinaRoles)をぶち込んでください
 # Mod作成お手伝いについて
 現在、承っておりません。
+# TheTsutinaRolesのお手伝いについて
+大歓迎です！
+サポート鯖(https://discord.gg/6Ue5B3UUre)からメンション付きでお知らせおねがいします！
