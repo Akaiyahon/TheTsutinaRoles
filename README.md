@@ -19,3 +19,6 @@ TTRサポート鯖：https://discord.gg/6Ue5B3UUre
 # TheTsutinaRolesのお手伝いについて
 大歓迎です！
 サポート鯖(https://discord.gg/6Ue5B3UUre)からメンション付きでお知らせおねがいします！
+# 開発者
+ykundesu(よっキングさん)
+akaiyahon(つちな)
