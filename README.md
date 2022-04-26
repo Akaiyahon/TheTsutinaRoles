@@ -17,8 +17,17 @@ TTRサポート鯖：https://discord.gg/6Ue5B3UUre
 # Mod作成お手伝いについて
 現在、承っておりません。
 # TheTsutinaRolesのお手伝いについて
-大歓迎です！
-サポート鯖(https://discord.gg/6Ue5B3UUre)からメンション付きでお知らせおねがいします！
+dllファイルをプルりくしてください。
 # 開発者
-ykundesu(よっキングさん)
+ykundesu(よっキングさん)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 akaiyahon(つちな)
+# クレジット
+[TheOtherRoles](/TheOtherRoles)の作り方の参考にさせていただきました。**Eisbision**さんありがとうございます！                                   
+[SuperNewRoles](/SuperNewRoles)の開発者よっキングさんに開発を手伝ってもらいました。**ykundesu**さんありがとうございます！
+役職【Sheriff-シェリフ-】の元は**Woodi-dev([SheriffMod](/Among-Us-Sheriff-Mod))**です。    　　　　　　　　　　　　　                                                　
+# 役職内容
+**BataReleace**                                                                                                                                                 
+・シェリフ(未リリース)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
+・ライター(未リリース)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+**通常Releace**　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+現在、通常リリースはありません。
