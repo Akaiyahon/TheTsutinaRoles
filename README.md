@@ -20,14 +20,15 @@ TTRサポート鯖：https://discord.gg/6Ue5B3UUre
 dllファイルをプルりくしてください。
 # 開発者
 ykundesu(よっキングさん)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-akaiyahon(つちな)
-satsumaimoamo(おいしい)<br>
+akaiyahon(つちな)                                                                                                                      
+satsumaimoamo(おいしい)<br>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+じゅきまぐろ
 # クレジット
-[TheOtherRoles](/TheOtherRoles)の作り方の参考にさせていただきました。**Eisbision**さんありがとうございます！                                   
-[SuperNewRoles](/SuperNewRoles)の開発者よっキングさんに開発を手伝ってもらいました。**ykundesu**さんありがとうございます！
+[TheOtherRoles](https://github.com/Eisbison/TheOtherRoles)の作り方の参考にさせていただきました。**Eisbision**さんありがとうございます！                                   
+[SuperNewRoles](https://github.com/ykundesu/SuperNewRoles)の開発者よっキングさんに開発を手伝ってもらいました。**ykundesu**さんありがとうございます！                     
 役職【Sheriff-シェリフ-】の元は**Woodi-dev([SheriffMod](/Among-Us-Sheriff-Mod))**です。    　　　　　　　　　　　　　                                                　
 # 役職内容
-**BataReleace**                                                                                                                                                 
+**BetaReleace**                                                                                                                                                 
 ・シェリフ(未リリース)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
 ・ライター(未リリース)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 **通常Releace**　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
