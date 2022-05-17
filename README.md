@@ -21,6 +21,7 @@ dllファイルをプルりくしてください。
 # 開発者
 ykundesu(よっキングさん)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 akaiyahon(つちな)
+satsumaimoamo(おいしい)
 # クレジット
 [TheOtherRoles](/TheOtherRoles)の作り方の参考にさせていただきました。**Eisbision**さんありがとうございます！                                   
 [SuperNewRoles](/SuperNewRoles)の開発者よっキングさんに開発を手伝ってもらいました。**ykundesu**さんありがとうございます！
