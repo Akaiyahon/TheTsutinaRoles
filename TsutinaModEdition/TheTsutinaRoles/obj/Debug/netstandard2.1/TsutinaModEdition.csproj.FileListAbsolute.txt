@@ -1,0 +1,16 @@
+C:\Users\arekk\OneDrive\デスクトップ\TsutinaModEdition\TsutinaModEdition\TsutinaModEdition\bin\Debug\netstandard2.1\TsutinaModEdition.deps.json
+C:\Users\arekk\OneDrive\デスクトップ\TsutinaModEdition\TsutinaModEdition\TsutinaModEdition\bin\Debug\netstandard2.1\TsutinaModEdition.dll
+C:\Users\arekk\OneDrive\デスクトップ\TsutinaModEdition\TsutinaModEdition\TsutinaModEdition\obj\Debug\netstandard2.1\TsutinaModEdition.csproj.AssemblyReference.cache
+C:\Users\arekk\OneDrive\デスクトップ\TsutinaModEdition\TsutinaModEdition\TsutinaModEdition\obj\Debug\netstandard2.1\TsutinaModEdition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arekk\OneDrive\デスクトップ\TsutinaModEdition\TsutinaModEdition\TsutinaModEdition\obj\Debug\netstandard2.1\TsutinaModEdition.AssemblyInfoInputs.cache
+C:\Users\arekk\OneDrive\デスクトップ\TsutinaModEdition\TsutinaModEdition\TsutinaModEdition\obj\Debug\netstandard2.1\TsutinaModEdition.AssemblyInfo.cs
+C:\Users\arekk\OneDrive\デスクトップ\TsutinaModEdition\TsutinaModEdition\TsutinaModEdition\obj\Debug\netstandard2.1\TsutinaModEdition.csproj.CoreCompileInputs.cache
+C:\Users\arekk\OneDrive\デスクトップ\TsutinaModEdition\TsutinaModEdition\TsutinaModEdition\obj\Debug\netstandard2.1\TsutinaModEdition.dll
+C:\Users\10user\Desktop\TsutinaModEdition\TsutinaModEdition\bin\Debug\netstandard2.1\TsutinaModEdition.deps.json
+C:\Users\10user\Desktop\TsutinaModEdition\TsutinaModEdition\bin\Debug\netstandard2.1\TsutinaModEdition.dll
+C:\Users\10user\Desktop\TsutinaModEdition\TsutinaModEdition\obj\Debug\netstandard2.1\TsutinaModEdition.csproj.AssemblyReference.cache
+C:\Users\10user\Desktop\TsutinaModEdition\TsutinaModEdition\obj\Debug\netstandard2.1\TsutinaModEdition.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\10user\Desktop\TsutinaModEdition\TsutinaModEdition\obj\Debug\netstandard2.1\TsutinaModEdition.AssemblyInfoInputs.cache
+C:\Users\10user\Desktop\TsutinaModEdition\TsutinaModEdition\obj\Debug\netstandard2.1\TsutinaModEdition.AssemblyInfo.cs
+C:\Users\10user\Desktop\TsutinaModEdition\TsutinaModEdition\obj\Debug\netstandard2.1\TsutinaModEdition.csproj.CoreCompileInputs.cache
+C:\Users\10user\Desktop\TsutinaModEdition\TsutinaModEdition\obj\Debug\netstandard2.1\TsutinaModEdition.dll
