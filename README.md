@@ -15,17 +15,18 @@ TTRサポート鯖：https://discord.gg/6Ue5B3UUre
 2.Steamからローカルフォルダを開くをクリック
 3.そこにさっきダウンロードしたTTR(ThetsutinaRoles)をぶち込んでください
 # 開発者
-ykundesu(よっキングさん)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-akaiyahon(つちな)                                                                                                                      
-satsumaimoamo(おいしい)<br>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-じゅきまぐろ
+ykundesu(よっキングさん)<br>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+akaiyahon(つちな)<br>                                                                                                               
+satsumaimoamo(おいしい)<br>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+じゅきまぐろ<br>
 # クレジット
-[TheOtherRoles](https://github.com/Eisbison/TheOtherRoles)の作り方の参考にさせていただきました。**Eisbision**さんありがとうございます！                                   
-[SuperNewRoles](https://github.com/ykundesu/SuperNewRoles)の開発者よっキングさんに開発を手伝ってもらいました。**ykundesu**さんありがとうございます！                     
-役職【Sheriff-シェリフ-】の元は**Woodi-dev([SheriffMod](/Among-Us-Sheriff-Mod))**です。    　　　　　　　　　　　　　                                                　
+[TheOtherRoles](https://github.com/Eisbison/TheOtherRoles)の作り方の参考にさせていただきました。**Eisbision**さんありがとうございます！ <br>                           
+[SuperNewRoles](https://github.com/ykundesu/SuperNewRoles)の開発者よっキングさんに開発を手伝ってもらいました。**ykundesu**さんありがとうございます！ <br>               
+役職【Sheriff-シェリフ-】の元は**Woodi-dev([SheriffMod](/Among-Us-Sheriff-Mod))**です。  <br>　　　　　　　　　　　                                                　
 # 役職内容
 **BetaReleace**                                                                                                                                                 
-・シェリフ(未リリース)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　 
-・ライター(未リリース)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-**通常Releace**　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+・シェリフ(未リリース)<br>　　　　　　　　　　　　　　　　　　
+・ライター(未リリース)<br>
+　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+**通常Releace** <br>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 現在、通常リリースはありません。
