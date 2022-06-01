@@ -14,10 +14,6 @@ TTRサポート鯖：https://discord.gg/6Ue5B3UUre
 1.TheTsutinaRolesをダウンロード
 2.Steamからローカルフォルダを開くをクリック
 3.そこにさっきダウンロードしたTTR(ThetsutinaRoles)をぶち込んでください
-# Mod作成お手伝いについて
-現在、承っておりません。
-# TheTsutinaRolesのお手伝いについて
-dllファイルをプルりくしてください。
 # 開発者
 ykundesu(よっキングさん)　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 akaiyahon(つちな)                                                                                                                      
