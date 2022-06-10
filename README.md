@@ -1,6 +1,6 @@
 # tsutinamodedition
 Among Us 新MOD TheTsutinaRole(旧TsutinaModEdition)です！
-![TsutinaModEdition-removebg-preview](https://user-images.githubusercontent.com/93066074/158156517-17b47bd9-2645-4d0c-b9e1-0782a323761f.png)
+![banner](https://user-images.githubusercontent.com/93066074/173049108-3e5a7416-585d-4971-80fa-413f1ab3c2ae.png)
 # TsutinaModEditionのサポート鯖
 TTRサポート鯖：https://discord.gg/6Ue5B3UUre
 # 対応プラットホーム
