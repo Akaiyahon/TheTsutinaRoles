@@ -11,9 +11,9 @@ TTRサポート鯖：https://discord.gg/6Ue5B3UUre
 # 目標ではないこと
 1.
 # 導入方法
-1.TheTsutinaRolesをダウンロード
-2.Steamからローカルフォルダを開くをクリック
-3.そこにさっきダウンロードしたTTR(ThetsutinaRoles)をぶち込んでください
+1.TheTsutinaRolesをダウンロード<br>
+2.Steamからローカルフォルダを開くをクリック<br>
+3.そこにさっきダウンロードしたTTR(ThetsutinaRoles)をぶち込んでください<br>
 # 開発者
 ykundesu(よっキングさん)<br>　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 akaiyahon(つちな)<br>                                                                                                
