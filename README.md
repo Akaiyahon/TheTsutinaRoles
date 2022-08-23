@@ -1,6 +1,7 @@
 # tsutinamodedition
 Among Us 新MOD TheTsutinaRole(旧TsutinaModEdition)です！
 ![banner](https://user-images.githubusercontent.com/93066074/173049108-3e5a7416-585d-4971-80fa-413f1ab3c2ae.png)
+This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
 # TsutinaModEditionのサポート鯖
 TTRサポート鯖：https://discord.gg/6Ue5B3UUre
 # 対応プラットホーム
