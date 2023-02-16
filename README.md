@@ -1,3 +1,12 @@
+#TheTsutinaRolesの開発者終了しました
+私の飽き性とパソコンがウイルスに乗っ取られたため
+開発を終了させていただきます
+V1.0.0を一年間待ってくれた方--いないと思うけど--すいませんでした
+(実は一つのファイル作ればリリースできる)
+もう一つ理由がありまして
+あもあすのアプデの波にのまれていって、シェイプ追加前ならリリースはできていたんですよ。
+まぁそんなことは置いておいて開発者たちおつ！
+--ざまぁみろ！--
 # tsutinamodedition
 Among Us 新MOD TheTsutinaRole(旧TsutinaModEdition)です！
 ![banner](https://user-images.githubusercontent.com/93066074/173049108-3e5a7416-585d-4971-80fa-413f1ab3c2ae.png)
