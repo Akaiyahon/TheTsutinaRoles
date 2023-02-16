@@ -8,7 +8,7 @@ V1.0.0を一年間待ってくれた方--いないと思うけど--すいませ�
 まぁそんなことは置いておいて開発者たちおつ！
 --ざまぁみろ！--
 # tsutinamodedition
-Among Us 新MOD TheTsutinaRole(旧TsutinaModEdition)です！
+Among Us 新MOD TheTsutinaRole(旧TsutinaModEdition)です！※開発は終了しました
 ![banner](https://user-images.githubusercontent.com/93066074/173049108-3e5a7416-585d-4971-80fa-413f1ab3c2ae.png)
 This mod is not affiliated with Among Us or Innersloth LLC, and the content contained therein is not endorsed or otherwise sponsored by Innersloth LLC. Portions of the materials contained herein are property of Innersloth LLC. © Innersloth LLC.
 # TsutinaModEditionのサポート鯖
@@ -18,8 +18,8 @@ TTRサポート鯖：https://discord.gg/6Ue5B3UUre
 # 目標
 1.フリープレイ対応
 2.ホストモード実装
-# 目標ではないこと
-1.
+# ソースコード
+だいたいykundesuが作った
 # 導入方法
 1.TheTsutinaRolesをダウンロード<br>
 2.Steamからローカルフォルダを開くをクリック<br>
